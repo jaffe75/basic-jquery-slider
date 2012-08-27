@@ -1,4 +1,4 @@
-A simple jQuery slider plug-in. Very basic, simple to use and modify.
+A simple jQuery slider plug-in. Forked from Jcobb. Very basic, simple to use and modify.
 ##Just wanna customize this great slider
 Changes in v1.2
 - Fixed all minor bugs
